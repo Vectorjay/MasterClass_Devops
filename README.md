@@ -9,10 +9,10 @@
 
 <!--- Ul-->
 
-* Item 1
+* Register and set up AWS account
 
-* Item 1
+* Setting up Ec2 instance and connecting to it 
 
 <!-- Image tag -->
-
+<img src="./images/mark.png" width="300" height="200">
 
