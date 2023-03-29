@@ -1,4 +1,4 @@
-# MasterClass_Devops
+## Project_1
 <!---- Headings make use of the pound key-->
 ### _These are the following steps taking to achieve project_1_
 
@@ -6,9 +6,6 @@
 
 ---
 ---
-
-<!--- Ul-->
-
 * Register and set up AWS account
 
 * Setting up Ec2 instance and in running state
