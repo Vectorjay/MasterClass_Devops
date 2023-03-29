@@ -47,7 +47,7 @@
 *   <img src="./images/LEMP_config.png" width="250" height="150"> 
 <br>
 
-*   <img src="./images/Webrowser_test.png" width="800" height="60">
+*   <img src="./images/Webrowser_test.png" width="300" height="60">
 
 * ## Step 5
 * Testing PHP with Nginx
@@ -73,7 +73,7 @@
  
  * Details shwoing websever displayed
 
-    *   <img src="./images/Php_site_rendered.png" width="800" height="60">
+    *   <img src="./images/Php_site_rendered.png" width="200" height="60">
 
 * ## Step 6
 
