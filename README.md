@@ -1,0 +1,1 @@
+_This project is all about setting up of LAMP LEMP stack for web application._
