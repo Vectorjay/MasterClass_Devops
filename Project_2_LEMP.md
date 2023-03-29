@@ -54,7 +54,7 @@
 
 <html>
     <head>
-    
+
     sudo nano /var/www/projectLEMP/info.php
 
 </html>
