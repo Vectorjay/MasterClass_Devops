@@ -7,7 +7,7 @@
 
 * Created a couple of directories and files wher like like of the inde.html, router.js and server.js here the port was difined which was then open on AWS from our inbound rule.
 
-The folling screenshot shows a successful outcome of MEAN STACK deploymentt.
+The folling screenshot shows a successful outcome of MEAN STACK deployment.
 
 <img src="./images/MEAN_server.png" width="350" height="300"><br>
 
