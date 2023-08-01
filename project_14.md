@@ -28,7 +28,7 @@ e. This shows different pipeline stages with the Jenkins file
   g. Yaml configuration for DB setup
 
 - Screenshot7
-  <img src="./images1/Setting up DB with Ansible01.png" width="450" height="400"><br>
+  <img src="./images1/Setting up DB with Ansible01.png" width="450" height="400">
   <img src="./images1/Seeting up DB with Ansible.png" width="450" height="400">
   h. Setting up the MSQL using Ansible.
 
@@ -37,16 +37,16 @@ e. This shows different pipeline stages with the Jenkins file
 i. Yaml scritp for installing Artifactiory using Ansible
 
 - Screenshot9
-  <img src="./images1/Instal artifact with Ansible.png" width="450" height="400"> <br>
+  <img src="./images1/Instal artifact with Ansible.png" width="450" height="400">
   <img src="./images1/Artifact UI.png" width="400" height="350">
   j. Showing artactory installing via ansible and Artifactory UI
 
 - Screenshot10
-<img src="./images1/Setting up Artifact from Jenkin.png" width="400" height="350"><br>
+<img src="./images1/Setting up Artifact from Jenkin.png" width="400" height="350">
 <img src="./images1/Artifactory tested Ok from Jenkins.png" width="400" height="350">
 k. Setting up artifactory from Jenkins and tested connection to be successful
 - Screenshot11
-<img src="./images1/Sonarqube-yaml.png" width="300" height="600"><br>
+<img src="./images1/Sonarqube-yaml.png" width="300" height="600">
 <img src="./images1/Live sonarqueb.png" width="400" height="200">
 l. Setting up sonarqube yaml file and UI showing burg sneeped
 
