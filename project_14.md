@@ -20,10 +20,13 @@ d. This shows the repo created on Jenkins
 e. This shows different pipeline stages with the Jenkins file
 
 *One of the task also stated we run a pipeline starting from the build- -> test -> package -> deploy*
+
 - Screenshot5
   <img src="./images1/First-Test.png" width="450" height="100">
+  
   f. This shows success from the build stage to cleanup
 
 - Screenshot6
   <img src="./images1/Yaml-setup DB.png" width="450" height="500">
+  
   g. Yaml configuration for DB setup
