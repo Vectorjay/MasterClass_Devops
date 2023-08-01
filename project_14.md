@@ -13,11 +13,10 @@ c. This shows the config for site.yml which the playbook pick to trigger an acti
 - Screenshot3
 <img src="./images1/Jenkins view proj 14.png" width="300" height="115">
 d. This shows the repo created on Jenkins
+
 - Screenshot4 
 <img src="./images1/Jenkins file config pro14.png" width="300" height="115">
 e. This shows different pipeline stages with the Jenkins file
-
-*One of the task also stated we run a pipeline starting from the build- -> test -> package -> deploy*
 
 - Screenshot5
   <img src="./images1/First-Test.png" width="450" height="100">
@@ -45,6 +44,7 @@ i. Yaml scritp for installing Artifactiory using Ansible
 <img src="./images1/Setting up Artifact from Jenkin.png" width="400" height="350">
 <img src="./images1/Artifactory tested Ok from Jenkins.png" width="400" height="350">
 k. Setting up artifactory from Jenkins and tested connection to be successful
+
 - Screenshot11
 <img src="./images1/Sonarqube-yaml.png" width="300" height="600">
 <img src="./images1/Live sonarqueb.png" width="400" height="200">
