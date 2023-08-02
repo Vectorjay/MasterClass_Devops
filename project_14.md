@@ -19,26 +19,26 @@ d. This shows the repo created on Jenkins
 e. This shows different pipeline stages with the Jenkins file
 
 - Screenshot5
-  <img src="./images1/First-Test.png" width="300" height="">
-  f. This shows success from the build stage to cleanup
+<img src="./images1/First-Test.png" width="300" height="">
+f. This shows success from the build stage to cleanup
 
 - Screenshot6
-  <img src="./images1/Yaml-setup DB.png" width="200" height="">
-  g. Yaml configuration for DB setup
+<img src="./images1/Yaml-setup DB.png" width="200" height="">
+g. Yaml configuration for DB setup
 
 - Screenshot7
-  <img src="./images1/Setting up DB with Ansible01.png" width="300" height="">
-  <img src="./images1/Seeting up DB with Ansible.png" width="300" height="">
-  h. Setting up the MSQL using Ansible.
+<img src="./images1/Setting up DB with Ansible01.png" width="300" height="">
+<img src="./images1/Seeting up DB with Ansible.png" width="300" height="">
+h. Setting up the MSQL using Ansible.
 
 - Screenshot8
-  <img src="./images1/Ansibl:yum to install Artifact 14.png" width="300" height="">
+<img src="./images1/Ansibl:yum to install Artifact 14.png" width="300" height="">
 i. Yaml scritp for installing Artifactiory using Ansible
 
 - Screenshot9
-  <img src="./images1/Instal artifact with Ansible.png" width="200" height="">
-  <img src="./images1/Artifact UI.png" width="200" height="">
-  j. Showing artactory installing via ansible and Artifactory UI
+<img src="./images1/Instal artifact with Ansible.png" width="200" height="">
+<img src="./images1/Artifact UI.png" width="200" height="">
+j. Showing artactory installing via ansible and Artifactory UI
 
 - Screenshot10
 <img src="./images1/Setting up Artifact from Jenkin.png" width="300" height="">
