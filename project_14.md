@@ -36,8 +36,8 @@ e. This shows different pipeline stages with the Jenkins file
 i. Yaml scritp for installing Artifactiory using Ansible
 
 - Screenshot9
-  <img src="./images1/Instal artifact with Ansible.png" width="300" height="">
-  <img src="./images1/Artifact UI.png" width="" height="">
+  <img src="./images1/Instal artifact with Ansible.png" width="200" height="">
+  <img src="./images1/Artifact UI.png" width="200" height="">
   j. Showing artactory installing via ansible and Artifactory UI
 
 - Screenshot10
