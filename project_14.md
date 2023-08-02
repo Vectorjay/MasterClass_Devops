@@ -23,7 +23,7 @@ e. This shows different pipeline stages with the Jenkins file
   f. This shows success from the build stage to cleanup
 
 - Screenshot6
-  <img src="./images1/Yaml-setup DB.png" width="300" height="">
+  <img src="./images1/Yaml-setup DB.png" width="200" height="">
   g. Yaml configuration for DB setup
 
 - Screenshot7
